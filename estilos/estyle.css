@@ -98,11 +98,12 @@ main {
     background-color: rgb(73, 160, 141);
     font-size: 1em;
     width: calc(100% - 45px) ;
-    transform: translatey(-13px);
+   
     height: 100%;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
+    transform: translatey(-13px);
     
    }
 
